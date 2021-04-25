@@ -1,9 +1,6 @@
 <p align="center">
 <img src="https://github.com/dhimanparas20/buildbot/blob/main/mst.jpg" />
   
-
-### Hi there 👋
-
 <!--
 **dhimanparas20/dhimanparas20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
