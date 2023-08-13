@@ -5,9 +5,6 @@
 <h3 align="center">A developer from India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhimanparas20&label=Profile%20views&color=0e75b6&style=flat" alt="dhimanparas20" /> </p>
-[![Website Badge](https://img.shields.io/badge/Portfolio-Paras-green)](https://dhimanparas20.github.io/)
-[![Website Badge](https://img.shields.io/badge/MirrorSite-MstMirror-yellow)](https://luffy.mst-uploads.workers.dev/0:/)
-[![Website Badge](https://img.shields.io/badge/Automation-MstServices-violet)](https://mstautomations.onrender.com/home/)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhimanparas20" alt="dhimanparas20" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
