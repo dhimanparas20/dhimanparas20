@@ -1,20 +1,6 @@
 <p align="center">
-<img src="https://github.com/dhimanparas20/buildbot/blob/main/mst.jpg" />
-  
-<!--
-**dhimanparas20/dhimanparas20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/dhimanparas20/dhimanparas20/blob/main/logo.png>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m with ...
-- 💬 Ask me about ...
-h me: ...
-
-
--->
 <h1 align="center">Hi 👋, I'm Paras Dhiman</h1>
 <h3 align="center">A developer from India 🇮🇳</h3>
 
@@ -24,19 +10,19 @@ h me: ...
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Android development**
+- 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Python, Java, Bash **
+- 🌱 I’m currently learning **JQuery and AJAX**
 
 - 👯 I’m looking to collaborate on **MST-Productions**
 
-- 🤝 I’m looking for help with **MST-Productions**
+- 🤝 I’m looking for help with **Reach-JS**
 
-- 💬 Ask me about **Android Development**
+- 💬 Ask me about **Python, C++, Deployment, HTML, CSS, Databases etc.**
 
 - 📫 How to reach me **dhimanparas20@gmail.com**
 
-- ⚡ Fun fact **🔥😘EDM ʟᴏᴠᴇʀ🎶 🔥😘TECH ʟᴏᴠᴇʀ🎶 🔥😘Android Developer (Android Os, Android System)📱**
+- ⚡ Fun fact **I love Cars,EDM,Tech,Swimming,Driving and Coding. I'm also a Quick Learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
