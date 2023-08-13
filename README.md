@@ -5,6 +5,9 @@
 <h3 align="center">A developer from India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhimanparas20&label=Profile%20views&color=0e75b6&style=flat" alt="dhimanparas20" /> </p>
+[![Website Badge](https://img.shields.io/badge/Portfolio-Paras-green)](https://dhimanparas20.github.io/)
+[![Website Badge](https://img.shields.io/badge/MirrorSite-MstMirror-yellow)](https://luffy.mst-uploads.workers.dev/0:/)
+[![Website Badge](https://img.shields.io/badge/Automation-Mst Services-violet)](about:blank)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhimanparas20" alt="dhimanparas20" /></a> </p>
 
@@ -26,7 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/https://www.instagram.com/i_._anonymous/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/i_._anonymous/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/i_._anonymous/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/i_._anonymous/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
