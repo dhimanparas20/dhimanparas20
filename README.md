@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **JQuery and AJAX**
 
-- 👯 I’m looking to collaborate on **MST-Productions**
+- 👯 I’m looking to collaborate on **Project-Raza**
 
 - 🤝 I’m looking for help with **Project-Raza**
 
