@@ -15,9 +15,9 @@
 
 - 👯 I’m looking to collaborate on **MST-Productions**
 
-- 🤝 I’m looking for help with **Reach-JS**
+- 🤝 I’m looking for help with **Project-Raza**
 
-- 💬 Ask me about **Python, C++, Deployment, HTML, CSS, Databases etc.**
+- 💬 Ask me about **Python, C++, Deployment, HTML, CSS, Databases, Hosting, WebScraping etc.**
 
 - 📫 How to reach me **dhimanparas20@gmail.com**
 
