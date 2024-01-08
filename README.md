@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Development**
+- 🔭 I’m currently working on **MST Automations**
 
-- 🌱 I’m currently learning **JQuery and AJAX**
+- 🌱 I’m currently learning **Full Stack Development**
 
-- 👯 I’m looking to collaborate on **Project-Raza**
+- 👯 I’m looking to collaborate on **MST Automations**
 
-- 🤝 I’m looking for help with **Project-Raza**
+- 🤝 I’m looking for help with **MST Automations**
 
-- 💬 Ask me about **Python, C++, Deployment, HTML, CSS, Databases, Hosting, WebScraping etc.**
+- 💬 Ask me about **Python, C++, Deployment, HTML, CSS, Databases, Hosting, Docker, IOT, WebScraping, Servers, Raspberry Pi etc.**
 
 - 📫 How to reach me **dhimanparas20@gmail.com**
 
