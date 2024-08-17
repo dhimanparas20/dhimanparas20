@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paras Dhiman
 ====================================================================================================================================
 
-Backend Developer
+Backend / DevOps. Engineer
 -----------------
 
 They call me 'Jack of all, master of None' . Passionate about technology and how the servers work. I love to work behind the scene to make incredible.
 
 # 💫 About Me:
-🌍  I'm based in Shimla, Himachal Pradesh, India.<br>🖥️  See my [Portfolio](https://dhimanparas20.github.io/)<br>✉️  You can contact me at dhimanparas20@gmail.com<br>🔭 I’m currently working on [MST Mirror](https://github.com/dhimanparas20?tab=repositories ) .<br>🧠  I'm learning NestJS.<br>👯 I’m looking to collaborate on any back-end Development Project.<br>🤝 I’m looking for help with getting **Remote Internships**.<br>💬 Ask me about Back-end Development.<br>⚡ I love Swimming, Driving, Trekking, Playing Football & Table Tennis, Watching Anime and listening to music. 
+🌍  I'm based in Shimla, Himachal Pradesh, India.<br>🖥️  See my [Portfolio](https://dhimanparas20.github.io/)<br>✉️  You can contact me at dhimanparas20@gmail.com<br>🔭 I’m currently working on [MST Mirror](https://github.com/dhimanparas20?tab=repositories ) .<br>🧠  I'm learning DevOps. <br>👯 I’m looking to collaborate on any back-end Development Project.<br>🤝 I’m looking for help with getting **Remote Internships**.<br>💬 Ask me about Back-end Development.<br>⚡ I love Swimming, Driving, Trekking, Playing Football & Table Tennis, Watching Anime and listening to music. 
 
 
 ## 🌐 Socials:
