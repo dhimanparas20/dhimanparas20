@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend / DevOps. Engineer
 -----------------
 
-They call me 'Jack of all, master of None' . Passionate about technology and how the servers work. I love to work behind the scene to make incredible.
+They call me 'Jack of all, master of One' . Passionate about technology and how the servers work. I love to work behind the scene to make incredible.
 
 # 💫 About Me:
 🌍  I'm based in Shimla, Himachal Pradesh, India.<br>🖥️  See my [Portfolio](https://dhimanparas20.github.io/)<br>✉️  You can contact me at dhimanparas20@gmail.com<br>🔭 I’m currently working on [MST Mirror](https://github.com/dhimanparas20?tab=repositories ) .<br>🧠  I'm learning DevOps. <br>👯 I’m looking to collaborate on any back-end Development Project.<br>🤝 I’m looking for help with getting **Remote Internships**.<br>💬 Ask me about Back-end Development.<br>⚡ I love Swimming, Driving, Trekking, Playing Football & Table Tennis, Watching Anime and listening to music. 
@@ -28,9 +28,6 @@ They call me 'Jack of all, master of None' . Passionate about technology and how
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dhimanparas20&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dhimanparas20&icon=8&color=0)](https://visitcount.itsvg.in)
